@@ -1,0 +1,13 @@
+fastapi
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langsmith
+openai
+pydantic
+pydantic_core
+python-dotenv
+python-multipart
+uvicorn
+

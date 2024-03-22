@@ -1,0 +1,5 @@
+.env
+/venv
+/dont_need
+__pycache__
+/temp
